@@ -1,0 +1,2 @@
+private int sad(a, b) {
+	return a+b-a;
